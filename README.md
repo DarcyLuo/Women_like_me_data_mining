@@ -13,3 +13,5 @@ This project seeks to know the group from two aspects:
 ### Let's see how the result answers these three questions!
 
 本项目仅供娱乐！
+
+##注：列表中附有的CSV和PNG文件都是代码生成的文件。
